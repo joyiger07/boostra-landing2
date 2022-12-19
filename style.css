@@ -1,0 +1,28 @@
+*body{
+    background-color: aquamarine;
+}
+
+.card{
+    justify-content: center;
+    text-align: center;
+    text-justify: 10;
+    color: rgb(8, 8, 15);
+    align-items: center;
+  
+    border-color: rgb(84, 101, 229);
+}
+
+.formulario{
+    text-align: center;
+    color: blue;
+   
+   
+    background-color: rgb(88, 211, 170);
+}
+
+.footer{
+    background-color: aquamarine;
+    
+}
+
+
